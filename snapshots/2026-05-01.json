@@ -1,6 +1,8 @@
 {
-  "generated_at": "2026-05-01T08:08:42.208Z",
+  "snapshot_date": "2026-05-01",
+  "archived_at": "2026-05-01T08:08:43.167Z",
   "coin_count": 50,
+  "original_generated_at": "2026-05-01T08:08:42.208Z",
   "coins": [
     {
       "rank": 3,
