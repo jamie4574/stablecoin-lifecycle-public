@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-10T11:48:53.054Z",
+  "generated_at": "2026-10-11T12:01:34.866Z",
   "coin_count": 50,
   "coins": [
     {
       "rank": 3,
       "name": "Tether",
       "ticker": "USDT",
-      "mcap": 184.1026,
+      "mcap": 184.0946,
       "year": 2014,
-      "growth": 0,
+      "growth": -1,
       "issuer": "Tether",
       "image": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
       "id": "tether"
@@ -17,7 +17,7 @@
       "rank": 6,
       "name": "USDC",
       "ticker": "USDC",
-      "mcap": 72.8653,
+      "mcap": 72.9638,
       "year": 2018,
       "growth": -7,
       "issuer": "Circle",
@@ -28,7 +28,7 @@
       "rank": 13,
       "name": "USDS",
       "ticker": "USDS",
-      "mcap": 10.1432,
+      "mcap": 10.1658,
       "year": 2024,
       "growth": -11,
       "issuer": "Sky / MakerDAO",
@@ -39,7 +39,7 @@
       "rank": 25,
       "name": "Ethena USDe",
       "ticker": "USDE",
-      "mcap": 4.7789,
+      "mcap": 4.7634,
       "year": 2024,
       "growth": -18,
       "issuer": "Ethena",
@@ -47,10 +47,10 @@
       "id": "ethena-usde"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "Dai",
       "ticker": "DAI",
-      "mcap": 4.5568,
+      "mcap": 4.5507,
       "year": 2017,
       "growth": 4,
       "issuer": "Sky / MakerDAO",
@@ -58,10 +58,10 @@
       "id": "dai"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "USD1",
       "ticker": "USD1",
-      "mcap": 4.2593,
+      "mcap": 4.2588,
       "year": 2025,
       "growth": 4,
       "issuer": "World Liberty Fi",
@@ -72,9 +72,9 @@
       "rank": 38,
       "name": "Global Dollar",
       "ticker": "USDG",
-      "mcap": 3.1438,
+      "mcap": 3.1338,
       "year": 2024,
-      "growth": 46,
+      "growth": 43,
       "issuer": "Paxos",
       "image": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111",
       "id": "global-dollar"
@@ -83,9 +83,9 @@
       "rank": 41,
       "name": "PayPal USD",
       "ticker": "PYUSD",
-      "mcap": 2.9008,
+      "mcap": 2.9059,
       "year": 2023,
-      "growth": -28,
+      "growth": -29,
       "issuer": "PayPal / Paxos",
       "image": "https://coin-images.coingecko.com/coins/images/31212/large/PYUSD_Token_Logo_2x.png?1765987788",
       "id": "paypal-usd"
@@ -94,9 +94,9 @@
       "rank": 45,
       "name": "Ripple USD",
       "ticker": "RLUSD",
-      "mcap": 2.4471,
+      "mcap": 2.4474,
       "year": 2024,
-      "growth": 72,
+      "growth": 66,
       "issuer": "Ripple",
       "image": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633",
       "id": "ripple-usd"
@@ -105,7 +105,7 @@
       "rank": 56,
       "name": "Falcon USD",
       "ticker": "USDF",
-      "mcap": 1.8175,
+      "mcap": 1.8174,
       "year": 2025,
       "growth": 2,
       "issuer": "Falcon Finance",
@@ -113,12 +113,12 @@
       "id": "falcon-finance"
     },
     {
-      "rank": 63,
+      "rank": 58,
       "name": "USDD",
       "ticker": "USDD",
-      "mcap": 1.615,
+      "mcap": 1.8001,
       "year": 2022,
-      "growth": 7,
+      "growth": 19,
       "issuer": "Tron DAO",
       "image": "https://coin-images.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513",
       "id": "usdd"
@@ -127,7 +127,7 @@
       "rank": 64,
       "name": "United Stables",
       "ticker": "U",
-      "mcap": 1.5519,
+      "mcap": 1.5514,
       "year": 2026,
       "growth": 60,
       "issuer": "—",
@@ -135,7 +135,7 @@
       "id": "united-stables"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "BFUSD",
       "ticker": "BFUSD",
       "mcap": 1.3176,
@@ -146,21 +146,21 @@
       "id": "bfusd"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "USDGO",
       "ticker": "USDGO",
-      "mcap": 1.2943,
+      "mcap": 1.2942,
       "year": 2026,
-      "growth": 1803,
+      "growth": 1804,
       "issuer": "—",
       "image": "https://coin-images.coingecko.com/coins/images/102172077/large/USDGO_Primary_Icon.png?1789694084",
       "id": "usdgo"
     },
     {
-      "rank": 89,
+      "rank": 92,
       "name": "Open USD",
       "ticker": "OUSD",
-      "mcap": 0.7882,
+      "mcap": 0.7891,
       "year": 2026,
       "growth": null,
       "issuer": "—",
@@ -168,10 +168,10 @@
       "id": "open-usd"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "GHO",
       "ticker": "GHO",
-      "mcap": 0.6979,
+      "mcap": 0.698,
       "year": 2023,
       "growth": 20,
       "issuer": "Aave",
@@ -179,7 +179,7 @@
       "id": "gho"
     },
     {
-      "rank": 111,
+      "rank": 113,
       "name": "Usual USD",
       "ticker": "USD0",
       "mcap": 0.5419,
@@ -190,21 +190,21 @@
       "id": "usual-usd"
     },
     {
-      "rank": 117,
+      "rank": 118,
       "name": "EURC",
       "ticker": "EURC",
-      "mcap": 0.4957,
+      "mcap": 0.4944,
       "year": 2022,
-      "growth": 18,
+      "growth": 17,
       "issuer": "Circle",
       "image": "https://coin-images.coingecko.com/coins/images/26045/large/EURC.png?1769615705",
       "id": "euro-coin"
     },
     {
-      "rank": 118,
+      "rank": 119,
       "name": "TrueUSD",
       "ticker": "TUSD",
-      "mcap": 0.4941,
+      "mcap": 0.4942,
       "year": 2018,
       "growth": 0,
       "issuer": "Archblock",
@@ -212,10 +212,10 @@
       "id": "true-usd"
     },
     {
-      "rank": 119,
+      "rank": 121,
       "name": "YLDS",
       "ticker": "YLDS",
-      "mcap": 0.4874,
+      "mcap": 0.4873,
       "year": 2025,
       "growth": -14,
       "issuer": "—",
@@ -223,7 +223,7 @@
       "id": "ylds"
     },
     {
-      "rank": 122,
+      "rank": 123,
       "name": "USDtb",
       "ticker": "USDTB",
       "mcap": 0.4702,
@@ -237,18 +237,18 @@
       "rank": 126,
       "name": "A7A5",
       "ticker": "A7A5",
-      "mcap": 0.4483,
+      "mcap": 0.4558,
       "year": 2025,
-      "growth": -10,
+      "growth": -7,
       "issuer": "A7A5",
       "image": "https://coin-images.coingecko.com/coins/images/66657/large/A7A5_200.png?1750163839",
       "id": "a7a5"
     },
     {
-      "rank": 138,
+      "rank": 139,
       "name": "SoFiUSD",
       "ticker": "SOFID",
-      "mcap": 0.3367,
+      "mcap": 0.3365,
       "year": 2026,
       "growth": null,
       "issuer": "—",
@@ -256,51 +256,51 @@
       "id": "sofiusd"
     },
     {
-      "rank": 142,
+      "rank": 143,
       "name": "First Digital USD",
       "ticker": "FDUSD",
       "mcap": 0.3239,
       "year": 2023,
-      "growth": -19,
+      "growth": -20,
       "issuer": "First Digital",
       "image": "https://coin-images.coingecko.com/coins/images/31079/large/FDUSD_icon_black.png?1731097953",
       "id": "first-digital-usd"
     },
     {
-      "rank": 145,
-      "name": "apxUSD",
-      "ticker": "APXUSD",
-      "mcap": 0.3156,
-      "year": 2026,
-      "growth": 119,
-      "issuer": "—",
-      "image": "https://coin-images.coingecko.com/coins/images/102172243/large/apxUSD.png?1772448502",
-      "id": "apxusd"
-    },
-    {
       "rank": 147,
       "name": "Re Protocol reUSD",
       "ticker": "REUSD",
-      "mcap": 0.3083,
+      "mcap": 0.3132,
       "year": 2026,
-      "growth": 80,
+      "growth": 94,
       "issuer": "—",
       "image": "https://coin-images.coingecko.com/coins/images/66291/large/Points_Program_Group_91.png?1749676055",
       "id": "re-protocol-reusd"
     },
     {
+      "rank": 148,
+      "name": "apxUSD",
+      "ticker": "APXUSD",
+      "mcap": 0.3131,
+      "year": 2026,
+      "growth": 108,
+      "issuer": "—",
+      "image": "https://coin-images.coingecko.com/coins/images/102172243/large/apxUSD.png?1772448502",
+      "id": "apxusd"
+    },
+    {
       "rank": 27,
       "name": "Binance-Peg BUSD",
       "ticker": "BUSD",
-      "mcap": 0.2829,
+      "mcap": 0.2835,
       "year": 2020,
-      "growth": -1,
+      "growth": 0,
       "issuer": "Binance / Paxos",
       "image": "https://coin-images.coingecko.com/coins/images/31273/large/new_binance-peg-busd.png?1696530096",
       "id": "binance-peg-busd"
     },
     {
-      "rank": 181,
+      "rank": 180,
       "name": "Legacy Frax Dollar",
       "ticker": "FRAX",
       "mcap": 0.2174,
@@ -311,12 +311,12 @@
       "id": "frax"
     },
     {
-      "rank": 185,
+      "rank": 184,
       "name": "crvUSD",
       "ticker": "CRVUSD",
-      "mcap": 0.2115,
+      "mcap": 0.2144,
       "year": 2023,
-      "growth": -14,
+      "growth": -23,
       "issuer": "Curve Finance",
       "image": "https://coin-images.coingecko.com/coins/images/30118/large/crvusd.jpg?1746670973",
       "id": "crvusd"
@@ -325,9 +325,9 @@
       "rank": 186,
       "name": "USX",
       "ticker": "USX",
-      "mcap": 0.2105,
+      "mcap": 0.2106,
       "year": 2025,
-      "growth": -42,
+      "growth": -43,
       "issuer": "—",
       "image": "https://coin-images.coingecko.com/coins/images/68429/large/Solstice_Icons_for_DEX_512x512_USX.png?1755718377",
       "id": "usx"
@@ -336,15 +336,15 @@
       "rank": 194,
       "name": "EUR CoinVertible",
       "ticker": "EURCV",
-      "mcap": 0.1877,
+      "mcap": 0.1878,
       "year": 2026,
-      "growth": 52,
+      "growth": 50,
       "issuer": "—",
       "image": "https://coin-images.coingecko.com/coins/images/33415/large/eurcv_%281%29.png?1701752017",
       "id": "societe-generale-forge-eurcv"
     },
     {
-      "rank": 196,
+      "rank": 200,
       "name": "USAT",
       "ticker": "USAT",
       "mcap": 0.1831,
@@ -355,10 +355,10 @@
       "id": "usa"
     },
     {
-      "rank": 201,
+      "rank": 204,
       "name": "AUSD",
       "ticker": "AUSD",
-      "mcap": 0.1751,
+      "mcap": 0.1759,
       "year": 2024,
       "growth": -19,
       "issuer": "Agora",
@@ -377,7 +377,7 @@
       "id": "polymarket-usd"
     },
     {
-      "rank": 224,
+      "rank": 225,
       "name": "GUSD",
       "ticker": "GUSD",
       "mcap": 0.1494,
@@ -388,12 +388,12 @@
       "id": "gusd"
     },
     {
-      "rank": 241,
+      "rank": 240,
       "name": "JPY Coin",
       "ticker": "JPYC",
-      "mcap": 0.1339,
+      "mcap": 0.1337,
       "year": 2026,
-      "growth": 555,
+      "growth": 552,
       "issuer": "—",
       "image": "https://coin-images.coingecko.com/coins/images/70314/large/JPYC_400x400.jpg?1761556080",
       "id": "jpycoin"
@@ -402,9 +402,9 @@
       "rank": 247,
       "name": "CASH",
       "ticker": "CASH",
-      "mcap": 0.1273,
+      "mcap": 0.1283,
       "year": 2025,
-      "growth": 76,
+      "growth": 77,
       "issuer": "—",
       "image": "https://coin-images.coingecko.com/coins/images/69679/large/cash.jpg?1759283906",
       "id": "cash-4"
@@ -421,7 +421,7 @@
       "id": "jpysc"
     },
     {
-      "rank": 253,
+      "rank": 252,
       "name": "Avant USD",
       "ticker": "AVUSD",
       "mcap": 0.1242,
@@ -443,10 +443,10 @@
       "id": "astherus-usdf"
     },
     {
-      "rank": 284,
+      "rank": 285,
       "name": "Frax USD",
       "ticker": "FRXUSD",
-      "mcap": 0.1056,
+      "mcap": 0.1054,
       "year": 2024,
       "growth": -21,
       "issuer": "Frax Finance",
@@ -454,7 +454,7 @@
       "id": "frax-usd"
     },
     {
-      "rank": 293,
+      "rank": 292,
       "name": "Unity USD",
       "ticker": "UUSD",
       "mcap": 0.0999,
@@ -465,10 +465,10 @@
       "id": "unity-usd"
     },
     {
-      "rank": 295,
+      "rank": 294,
       "name": "Saturn Dollar",
       "ticker": "USDAT",
-      "mcap": 0.0993,
+      "mcap": 0.0995,
       "year": 2026,
       "growth": null,
       "issuer": "—",
@@ -487,12 +487,12 @@
       "id": "usda-2"
     },
     {
-      "rank": 323,
+      "rank": 315,
       "name": "f(x) Protocol fxUSD",
       "ticker": "FXUSD",
-      "mcap": 0.0865,
+      "mcap": 0.0914,
       "year": 2026,
-      "growth": 364,
+      "growth": 354,
       "issuer": "—",
       "image": "https://coin-images.coingecko.com/coins/images/36202/large/fxUSD.jpg?1710833113",
       "id": "f-x-protocol-fxusd"
@@ -501,7 +501,7 @@
       "rank": 324,
       "name": "USDA",
       "ticker": "USDA",
-      "mcap": 0.0862,
+      "mcap": 0.0865,
       "year": 2025,
       "growth": -2,
       "issuer": "—",
@@ -509,7 +509,7 @@
       "id": "usda-3"
     },
     {
-      "rank": 336,
+      "rank": 339,
       "name": "USDsui",
       "ticker": "USDSUI",
       "mcap": 0.08,
@@ -520,7 +520,7 @@
       "id": "usdsui"
     },
     {
-      "rank": 355,
+      "rank": 354,
       "name": "Cygnus Finance Global USD",
       "ticker": "CGUSD",
       "mcap": 0.0756,
@@ -531,7 +531,7 @@
       "id": "cygnus-finance-global-usd"
     },
     {
-      "rank": 356,
+      "rank": 355,
       "name": "Lista USD",
       "ticker": "LISUSD",
       "mcap": 0.0756,
@@ -542,12 +542,12 @@
       "id": "helio-protocol-hay"
     },
     {
-      "rank": 358,
+      "rank": 357,
       "name": "Felix feUSD",
       "ticker": "FEUSD",
       "mcap": 0.0749,
       "year": 2026,
-      "growth": 1,
+      "growth": 0,
       "issuer": "—",
       "image": "https://coin-images.coingecko.com/coins/images/55068/large/feusd.jpg?1743581333",
       "id": "felix-feusd"
